@@ -21,7 +21,7 @@ drawings:
   persist: false
 ---
 
-# Welcome to Slidev
+# V8 是如何存储对象的？
 
 Presentation slides for developers
 
@@ -47,7 +47,7 @@ The last comment block of each slide will be treated as slide notes. It will be 
 
 ---
 
-# What is Slidev?
+# v8 里的对象是用 hashtable 存的吗？
 
 Slidev is a slides maker and presenter designed for developers, consist of the following features
 
